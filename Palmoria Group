@@ -68,15 +68,7 @@ EDA invloves the exploring of the data to show certain facts about the Data such
 <details>
 <summary><h2>📊Data Analysis</h2></summary>
     
-``` SQL
-SELECT A,B,C
-WHERE A> 15
-``` 
-
-*ITALICS*
-**BOLD**
-
-**
+Avaialble via image provided
 <details>
 <summary><h2>📊Conclusion</h2></summary>
 This project shows how HR analytics can uncover systemic issues and support informed leadership decisions. 
