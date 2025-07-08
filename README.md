@@ -67,8 +67,8 @@ EDA invloves the exploring of the data to show certain facts about the Data such
 
 <details>
 <summary><h2>📊Data Analysis</h2></summary>
-    
-Avaialble via image provided
+[View raw file] (https://docs.google.com/file/d/1xoneRBPKUVhXPIdRL7dUGXW29ZRlzse0/edit?usp=docslist_api&filetype=msexcel)    
+Avaiable via image provided
 <details>
 <summary><h2>📊Conclusion</h2></summary>
 This project shows how HR analytics can uncover systemic issues and support informed leadership decisions. 
