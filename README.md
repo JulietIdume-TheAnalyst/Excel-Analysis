@@ -67,6 +67,7 @@ EDA invloves the exploring of the data to show certain facts about the Data such
 
 <details>
 <summary><h2>📊Data Analysis</h2></summary>
+[Download here] (https://github.com/JulietIdume-TheAnalyst/Excel-Analysis/blob/main/Palmoria%20Group.xlsx)
 
 <details>
 <summary><h2>📊Conclusion</h2></summary>
