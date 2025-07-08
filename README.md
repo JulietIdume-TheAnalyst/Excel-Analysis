@@ -71,5 +71,4 @@ EDA invloves the exploring of the data to show certain facts about the Data such
 
 <details>
 <summary><h2>📊Conclusion</h2></summary>
-This project shows how HR analytics can uncover systemic issues and support informed leadership decisions. 
-With focused recommen
+This project shows how HR analytics can uncover systemic issues and support informed leadership decisions. The dashboard provides visual summary of the HR data while pointing areas that need improvements.
