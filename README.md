@@ -1,13 +1,13 @@
 # Palmoria Group Capstone Project
 This capstone project was developed to demonstrate the power of data-driven HR decision-making. 
-Using employee records from a fictional manufacturing company (Palmoria Group), this analysis investigated Gender Inequality, salary inequalities and performance trends with the goal of making strategic HR recommendations.
+Using employee records from a fictional manufacturing company (Palmoria Group), this analysis investigated gender inequality, salary inequalities and performance trends with the goal of making strategic HR recommendations.
 
-## Project Topics: Palmoria Group HR Analytics Capstone Project
+## Project Topics: Palmoria Group HR Analytics Project
 
 <details>
 <summary><h2>📚Project Overview</h2></summary>
     
-The objective of this capstone project was to:
+The objective of this project was to:
 
 - Analyze HR data to reveal possible gender-based imbalances across departments and regions.
 
@@ -22,7 +22,7 @@ The objective of this capstone project was to:
 <details>
 <summary><h2>📍 Data Sources</h2></summary>
 
-The primary data source was provided by The Digital Skills Africa Data (DSA) and it is palmoria group emp-data.csv The datasets include:
+The primary data source was provided by The Digital Skills Africa (DSA) for the purpose of this project. The datasets include:
 
 Employee Data: Includes employee name, gender, department, salary, location, and performance rating.
 Bonus Rules: A table that maps bonus percentages to each department based on performance ratings.
@@ -37,19 +37,19 @@ Bonus Rules: A table that maps bonus percentages to each department based on per
     - For Data Collection
     - For Data Cleaning
       1. Data Manipulation
-      2. Data Visualization
+    - Data Visualization
 </details>
 
 <details>
 <summary><h2>♻️Data Cleaning and Preparation</h2></summary>
     
-In the initial stage of the data preparation and cleaning, we perform the folowing:
+In the initial stage of the data preparation and cleaning, the folowing things were done:
 1. Data loading and inspection
 2. Handling missing variables
 3. Removed records with missing departments and salaries (ex-employees or incomplete entries).
 4. Replaced missing gender with a generic "Not specified" label.
 5. Formatted salary as numeric values for analysis.
-6. Structured the bonus rules table for easy lookups using formulas and joins.
+6. Structured the bonus rules table for easy lookups using formulas.
 
 </details>
 
@@ -67,8 +67,7 @@ EDA invloves the exploring of the data to show certain facts about the Data such
 
 <details>
 <summary><h2>📊Data Analysis</h2></summary>
-[View raw file] (https://docs.google.com/file/d/1xoneRBPKUVhXPIdRL7dUGXW29ZRlzse0/edit?usp=docslist_api&filetype=msexcel)    
-Avaiable via image provided
+
 <details>
 <summary><h2>📊Conclusion</h2></summary>
 This project shows how HR analytics can uncover systemic issues and support informed leadership decisions. 
