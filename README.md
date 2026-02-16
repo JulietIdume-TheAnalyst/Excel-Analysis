@@ -10,7 +10,7 @@ This capstone project was developed to demonstrate the power of data-driven HR d
 <img width="560" height="309" alt="image" src="https://github.com/user-attachments/assets/6cf1dd16-a65b-4007-af6b-65eb25d283d7" />
 
 
-[View Dashboard here](https://app.powerbi.com/links/Y4BPDCMVHr?ctid=0eadf3f7-4ca9-49f6-8f8c-e7b847d32556&pbi_source=linkShare)
+[View Dashboard here on PowerBI](https://app.powerbi.com/links/Y4BPDCMVHr?ctid=0eadf3f7-4ca9-49f6-8f8c-e7b847d32556&pbi_source=linkShare)
 
 ## Project Topics: Palmoria Group HR Analytics Project
 
